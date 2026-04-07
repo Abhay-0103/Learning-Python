@@ -1,0 +1,1 @@
+Pudantic is same as typescript for python 
